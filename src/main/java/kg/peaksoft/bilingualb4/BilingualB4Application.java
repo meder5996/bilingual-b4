@@ -8,7 +8,7 @@ public class BilingualB4Application {
 
     public static void main(String[] args) {
         SpringApplication.run(BilingualB4Application.class, args);
-        System.out.println("Welcome colleagues, project name is Bilingual!");
+         System.out.println("Welcome colleagues, project name is Bilingual!");
     }
-
+     
 }
